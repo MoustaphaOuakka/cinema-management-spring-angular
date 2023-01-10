@@ -1,1 +1,1 @@
-# Cinema Management Spring Boot in Back-End and Angular in Front-End
+# Cinema Management Spring Boot in Backend and Angular in Frontend
